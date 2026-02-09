@@ -1,7 +1,7 @@
 # Glocks17
 
-Just to create one for the profile.
+Just to have one for my profile.
 
-My GIT repositories are just for me to test some code. 
+I only use my Git repositories for testing code.
 
-For most they aren't interesting anyway.
+They're not really relevant to most people anyway.
